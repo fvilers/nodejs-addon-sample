@@ -2,7 +2,8 @@
   "name": "nodejs-addon-sample",
   "version": "0.0.0",
   "scripts": {
-    "install": "node-gyp rebuild"
+    "install": "node-gyp rebuild",
+    "start": "node src/hello.js"
   },
   "repository": {
     "type": "git",
