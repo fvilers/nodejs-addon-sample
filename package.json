@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-addon-sample",
+  "version": "0.0.0",
+  "scripts": {
+    "install": "node-gyp rebuild"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fvilers/nodejs-addon-sample.git"
+  },
+  "keywords": [],
+  "author": "Fabian Vilers <fabian.vilers@dev-one.com> (https://www.dev-one.com/)",
+  "license": "MIT",
+  "gypfile": true,
+  "bugs": {
+    "url": "https://github.com/fvilers/nodejs-addon-sample/issues"
+  },
+  "homepage": "https://github.com/fvilers/nodejs-addon-sample#readme"
+}
